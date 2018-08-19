@@ -1,0 +1,15 @@
+# Visual Studio
+.vs
+bin
+obj
+packages
+*.user
+
+# ASP.NET Core
+appsettings.Development.json
+
+# macOS
+.DS_Store
+
+# Testing
+TestResults/
